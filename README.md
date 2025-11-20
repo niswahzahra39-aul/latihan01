@@ -12,13 +12,5 @@ niswah aulia zahra
 
 
 
-praktikum
-
-Analisa
-
-big
-
-data
-
-ekonomika
+praktikum Analisa big data ekonomika
 
